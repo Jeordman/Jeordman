@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 ### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
 
 ![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
-![IMG_1600](https://user-images.githubusercontent.com/50608600/119888325-74732b80-bef2-11eb-9fe7-f82e3fe2b560.jpg)
 ### [Here is my Environment configs](https://github.com/Jeordman/env-config)
