@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 ### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
 
 ![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
-
-![IMG_1221](https://user-images.githubusercontent.com/50608600/119888321-73da9500-bef2-11eb-84b0-f6a2a26b831f.JPG)
 ![IMG_1600](https://user-images.githubusercontent.com/50608600/119888325-74732b80-bef2-11eb-9fe7-f82e3fe2b560.jpg)
