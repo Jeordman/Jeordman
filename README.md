@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center;" markdown="1">
 # 🌲🦾 Hi, I'm Jeordin 🧘
 
 ### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
 
 ![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
 ### [Here is my Environment configs](https://github.com/Jeordman/env-config)
-</div>
