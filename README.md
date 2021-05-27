@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 Nature > most things
+🧘 Yogi
+
+👨‍💻 Neovim, TypeScript, React, Node, Golang  💖
+
+
 ![](https://media.giphy.com/media/7bZOgu8hW9p4T4mFTm/giphy.gif)
