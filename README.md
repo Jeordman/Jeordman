@@ -1,4 +1,4 @@
-### Hi there 👋
+#### 👋
 
 <!--
 **Jeordman/Jeordman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Nature > most things
-🧘 Yogi
+#### 🌱 Nature > most things
 
-👨‍💻 Neovim, TypeScript, React, Node, Golang  💖
+#### 🧘 Yogi
+
+#### 👨‍💻 Neovim, TypeScript, React, Node, Golang  💖
 
 
 ![](https://media.giphy.com/media/7bZOgu8hW9p4T4mFTm/giphy.gif)
