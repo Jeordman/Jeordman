@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center;">
+<div style="text-align: center;" markdown="1">
 # 🌲🦾 Hi, I'm Jeordin 🧘
 
 ### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
