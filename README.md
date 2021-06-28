@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
 
 ![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
-### [Here is my Environment configs](https://github.com/Jeordman/env-config)
+### [Here are my Environment configs](https://github.com/Jeordman/env-config)
 ### [Profile pic artist - Makowka](https://picrew.me/image_maker/263035)
