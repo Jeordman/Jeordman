@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🌲🦾 Hi, I'm Jeordin 🧘
 
-### 👨‍💻 Neovim, TypeScript, React, Node, Golang, Linux  💖
+### 👨‍💻 Vim, TypeScript, React, Svelte, Node, Golang, Dart  💖
 
 ![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
 ### [Here are my Environment configs](https://github.com/Jeordman/env-config)
