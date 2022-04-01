@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Vim, TypeScript, React, Svelte, Node, Golang, Dart  💖
 
-![](https://media.giphy.com/media/UPfwlZTVCBZPIO5Bwp/giphy.gif)
+![](https://media.giphy.com/media/fh6nwbYdOZ18ObiAf8/giphy.gif)
 ### [Here are my Environment configs](https://github.com/Jeordman/env-config)
 ### [Profile pic artist - Makowka](https://picrew.me/image_maker/263035)
