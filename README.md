@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # 🌲🧗 Hi, I'm Jeordin 🧘
 
-### 👨‍💻 Neovim, TypeScript, React, Svelte, Node, Golang  💖
+### 👨‍💻 Neovim, TypeScript, React  💖
 
-![](https://media.giphy.com/media/fh6nwbYdOZ18ObiAf8/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqdm9rOGdpajJkc3NkamVqeDBiMmU4ZGUyN2M5aTNjbjZsOWNwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d11M6mIwVVygzjgSNE/giphy.gif)
+
 ### [Here are my Environment configs](https://github.com/Jeordman/env-config)
-### [Profile pic artist - Makowka](https://picrew.me/image_maker/263035)
